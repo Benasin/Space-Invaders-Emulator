@@ -1,6 +1,10 @@
 # Space-Invaders-Emulator
 Intel 8080 CPU emulator to play Space Invaders in C (SDL2 for graphics)
 
+## Demo
+
+![invaders](https://imgur.com/a/oxcUXjQ)
+
 ## How to build and run
 
     gcc -o invaders cpu8080.c invaders.c -lSDL2
