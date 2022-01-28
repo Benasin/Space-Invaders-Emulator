@@ -22,11 +22,11 @@ Because of copyright you should find the rom on the internet and combine it to 1
 | C | Insert coins |
 | 1 | P1 plays |
 | 2 | P2 plays |
-| Z | P1 move left |
-| X | P1 move right |
+| Z | P1 moves left |
+| X | P1 moves right |
 | V | P1 shoots |
-| N | P2 move left |
-| M | P2 move right |
+| N | P2 moves left |
+| M | P2 moves right |
 | Dot (.) | P2 shoots |
 
 ## Resources
